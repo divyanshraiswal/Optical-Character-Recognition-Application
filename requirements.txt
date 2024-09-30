@@ -1,0 +1,11 @@
+streamlit
+tiktoken
+verovio
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.37.2
+megfile==3.1.2
+opencv-python
+accelerate
+numpy==1.26.4
+pillow
