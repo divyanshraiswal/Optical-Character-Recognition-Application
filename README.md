@@ -6,7 +6,8 @@ For running the application locally:-
 create and activate a virtual environment
 Install the required packages by running:-"pip install -r requirements.txt"
 Run the application using "streamlit run app.py " locally
-For deploying the application
+
+For deploying the application:-
 
 create a huggingface space
 choose streamlit as an option
